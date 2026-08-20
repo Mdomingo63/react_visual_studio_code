@@ -9,7 +9,7 @@ function Galeria() {
              className="photo"
 
            />
-           <ul>
+           <ul style={{ textAlign: 'left' }}>
              <li>Comprar leche</li>
              <li>Realizar ejercicio</li>
              <li>Leer un libro</li>
