@@ -7,7 +7,6 @@ function Galeria() {
              src="https://i.imgur.com/yXOvdOSs.jpg"
              alt="Yenis Sánchez"
              className="photo"
-
            />
            <ul style={{ textAlign: 'left' }}>
              <li>Comprar leche</li>
